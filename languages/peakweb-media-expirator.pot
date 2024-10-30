@@ -1,0 +1,47 @@
+# Copyright (C) 2015 Media Expirator
+# This file is distributed under the same license as the Media Expirator package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Media Expirator 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/media-expirator\n"
+"POT-Creation-Date: 2015-10-19 14:38:40+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. Name of the plugin
+msgid "Media Expirator"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.peakweb.it"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Add Expiration field to media library items. On Expire images will be "
+"deleted."
+msgstr ""
+
+#. Author of the plugin
+msgid "Marco - Peakweb"
+msgstr ""
+
+#: /peakweb-media-expirator.php:26
+msgid "Enable Expiration"
+msgstr ""
+
+#: /peakweb-media-expirator.php:30
+msgid "Set a date on which the image will be automatically deleted"
+msgstr ""
+
+#: /peakweb-media-expirator.php:33
+msgid "Expiration Date"
+msgstr ""
+
+#: /peakweb-media-expirator.php:36
+msgid "Date format: YYYY-MM-DD"
+msgstr ""
